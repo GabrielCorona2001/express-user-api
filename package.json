@@ -25,11 +25,13 @@
     "jiti": "^2.5.1",
     "nodemon": "^3.1.10",
     "prettier": "^3.6.2",
+    "prisma": "^6.16.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.2",
     "typescript-eslint": "^8.44.0"
   },
   "dependencies": {
+    "@prisma/client": "^6.16.2",
     "dotenv": "^17.2.2",
     "express": "^5.1.0"
   }
